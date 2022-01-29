@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^1.1.6",
+    "nestjs-pino": "^2.5.0",
+    "pino": "^7.6.4"
+  }
+}
